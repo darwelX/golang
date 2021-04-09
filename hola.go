@@ -5,5 +5,5 @@ import (
 		"github.com/darwelX/utilcadenas"
 )
 func main() {
-	fmt.Printf("!oG ,aloH¡\n")
+	fmt.Printf(utilcadenas.Reverso("!oG ,aloH¡\n"))
 }
