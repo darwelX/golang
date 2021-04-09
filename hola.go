@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
-
+import (
+		"fmt"
+		"github.com/darwelX/utilcadenas"
+)
 func main() {
-	fmt.Printf("hola, mundo\n")
+	fmt.Printf("!oG ,aloH¡\n")
 }
